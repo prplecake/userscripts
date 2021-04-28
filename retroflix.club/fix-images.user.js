@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      Matthew Jorgensen
-// @downloadURL https://git.sr.ht/~mjorgensen/userscripts/tree/master/item/retroflix.club/fix-images.user.js
+// @downloadURL https://git.sr.ht/~mjorgensen/userscripts/blob/master/retroflix.club/fix-images.user.js
 // @description 4/27/2021, 9:24:18 PM
 // ==/UserScript==
 
