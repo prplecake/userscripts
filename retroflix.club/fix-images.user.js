@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://retroflix.club/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      Matthew Jorgensen
 // @downloadURL https://git.sr.ht/~mjorgensen/userscripts/blob/master/retroflix.club/fix-images.user.js
 // @description 4/27/2021, 9:24:18 PM
