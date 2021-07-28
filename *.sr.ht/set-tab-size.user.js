@@ -9,14 +9,14 @@
 // ==/UserScript==
 
 (function() {
-    var css = [
-	"code, kbd, pre, samp {",
-	"    tab-size: 4;",
-	"    -moz-tab-size: 4;",
-	"}",
-    ].join("\n");
+	var css = [
+		"code, kbd, pre, samp {",
+		"    tab-size: 4;",
+		"    -moz-tab-size: 4;",
+		"}",
+	].join("\n");
 
-    var node = document.createElement("style");
+	var node = document.createElement("style");
 	node.type = "text/css";
 	node.appendChild(document.createTextNode(css));
 	var heads = document.getElementsByTagName("head");

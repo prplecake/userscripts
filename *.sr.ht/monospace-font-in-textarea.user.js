@@ -9,14 +9,14 @@
 // ==/UserScript==
 
 (function() {
-    var css = [
-	"textarea, textarea.form-control {",
-	"    font-family: monospace;",
-	"    font-size: 11pt;",
-	"}",
-    ].join("\n");
+	var css = [
+		"textarea, textarea.form-control {",
+		"    font-family: monospace;",
+		"    font-size: 11pt;",
+		"}",
+	].join("\n");
 
-    var node = document.createElement("style");
+	var node = document.createElement("style");
 	node.type = "text/css";
 	node.appendChild(document.createTextNode(css));
 	var heads = document.getElementsByTagName("head");

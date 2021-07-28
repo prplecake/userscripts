@@ -10,13 +10,13 @@
 // ==/UserScript==
 
 (function() {
-    var css = [
-	"code, kbd, pre, samp {",
-	"    font-family: monospace;",
-	"}",
-    ].join("\n");
+	var css = [
+		"code, kbd, pre, samp {",
+		"    font-family: monospace;",
+		"}",
+	].join("\n");
 
-    var node = document.createElement("style");
+	var node = document.createElement("style");
 	node.type = "text/css";
 	node.appendChild(document.createTextNode(css));
 	var heads = document.getElementsByTagName("head");

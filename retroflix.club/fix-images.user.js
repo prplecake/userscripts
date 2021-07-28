@@ -10,20 +10,20 @@
 // ==/UserScript==
 
 (function() {
-  var css = [
-    "img {",
-    "    max-width: 100%;",
-    "}",
-    "",
-    "img.movie-poster {",
-    "    max-width: unset;",
-    "}",
-    "img.bonus-formula {",
-    "    background-color: white;",
-    "}",
-  ].join("\n");
-  
-  var node = document.createElement("style");
+	var css = [
+		"img {",
+		"    max-width: 100%;",
+		"}",
+		"",
+		"img.movie-poster {",
+		"    max-width: unset;",
+		"}",
+		"img.bonus-formula {",
+		"    background-color: white;",
+		"}",
+	].join("\n");
+	
+	var node = document.createElement("style");
 	node.type = "text/css";
 	node.appendChild(document.createTextNode(css));
 	var heads = document.getElementsByTagName("head");
@@ -33,15 +33,15 @@
 		// no head yet, stick it whereever
 		document.documentElement.appendChild(node);
 	}
-  
-  img = document.getElementsByTagName("img");
-  console.log(img)
-  for (i in img) {
-    if (img[i].height == 300) {
-      img[i].classList.add("movie-poster");
-    }
-    if (img[i].src == origin+"/pic/bonusformulac.png") {
-      img[i].classList.add("bonus-formula")
-    }
-  }
+	
+	img = document.getElementsByTagName("img");
+	console.log(img)
+	for (i in img) {
+		if (img[i].height == 300) {
+			img[i].classList.add("movie-poster");
+		}
+		if (img[i].src == origin+"/pic/bonusformulac.png") {
+			img[i].classList.add("bonus-formula")
+		}
+	}
 })();
