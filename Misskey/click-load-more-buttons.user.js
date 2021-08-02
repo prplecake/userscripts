@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        Misskey Autoexpander
 // @namespace   Violentmonkey Scripts
-// @match       https://mk.jrgnsn.social
+// @match       https://mk.jrgnsn.social/
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      Matthew Jorgensen
 // @downloadURL https://git.sr.ht/~mjorgensen/userscripts/blob/master/Misskey/click-load-more-buttons.user.js
 // @description Clicks "Load More" buttons inside articles
