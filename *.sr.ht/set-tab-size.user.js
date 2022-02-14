@@ -4,7 +4,7 @@
 // @match       https://*.sr.ht/*
 // @grant       none
 // @version     1.0
-// @downloadURL	https://git.sr.ht/~mjorgensen/userscripts/blob/master/*.sr.ht/set-tab-size.user.js
+// @downloadURL	https://github.com/prplecake/userscripts/blob/master/*.sr.ht/set-tab-size.user.js
 // @author      Matthew Jorgensen
 // ==/UserScript==
 

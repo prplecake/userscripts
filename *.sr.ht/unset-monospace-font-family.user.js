@@ -4,7 +4,7 @@
 // @match       https://*.sr.ht/*
 // @grant       none
 // @version     1.0
-// @downloadURL	https://git.sr.ht/~mjorgensen/userscripts/blob/master/*.sr.ht/unset-monospace-font-family.user.js
+// @downloadURL	https://github.com/prplecake/userscripts/blob/master/*.sr.ht/unset-monospace-font-family.user.js
 // @author      Matthew Jorgensen
 // @description 4/27/2021, 9:28:13 PM
 // ==/UserScript==

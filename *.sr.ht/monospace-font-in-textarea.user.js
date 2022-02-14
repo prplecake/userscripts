@@ -4,7 +4,7 @@
 // @match       https://*.sr.ht/*
 // @grant       none
 // @version     1.0
-// @downloadURL	https://git.sr.ht/~mjorgensen/userscripts/blob/master/*.sr.ht/monospace-font-in-textarea.user.js
+// @downloadURL	https://github.com/prplecake/userscripts/blob/master/*.sr.ht/monospace-font-in-textarea.user.js
 // @author      Matthew Jorgensen
 // ==/UserScript==
 

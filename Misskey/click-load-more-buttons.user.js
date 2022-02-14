@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.1
 // @author      Matthew Jorgensen
-// @downloadURL https://git.sr.ht/~mjorgensen/userscripts/blob/master/Misskey/click-load-more-buttons.user.js
+// @downloadURL https://github.com/prplecake/userscripts/blob/master/Misskey/click-load-more-buttons.user.js
 // @description Clicks "Load More" buttons inside articles
 // ==/UserScript==
 
