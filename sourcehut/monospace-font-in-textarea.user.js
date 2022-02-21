@@ -1,18 +1,18 @@
 // ==UserScript==
-// @name        sr.ht monospace font unset
+// @name        sr.ht monospace font in textareas
 // @namespace   Violentmonkey Scripts
 // @match       https://*.sr.ht/*
 // @grant       none
-// @version     1.0
-// @downloadURL	https://github.com/prplecake/userscripts/blob/master/*.sr.ht/unset-monospace-font-family.user.js
+// @version     1.1
+// @downloadURL	https://github.com/prplecake/userscripts/blob/master/sourcehut/monospace-font-in-textarea.user.js
 // @author      Matthew Jorgensen
-// @description 4/27/2021, 9:28:13 PM
 // ==/UserScript==
 
 (function() {
 	var css = [
-		"code, kbd, pre, samp {",
+		"textarea, textarea.form-control {",
 		"    font-family: monospace;",
+		"    font-size: 11pt;",
 		"}",
 	].join("\n");
 
