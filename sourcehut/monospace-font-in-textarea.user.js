@@ -3,8 +3,8 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://*.sr.ht/*
 // @grant       none
-// @version     1.0
-// @downloadURL	https://github.com/prplecake/userscripts/blob/master/*.sr.ht/monospace-font-in-textarea.user.js
+// @version     1.1
+// @downloadURL	https://github.com/prplecake/userscripts/blob/master/sourcehut/monospace-font-in-textarea.user.js
 // @author      Matthew Jorgensen
 // ==/UserScript==
 
