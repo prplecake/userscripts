@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 function clickLoadMoreButton(elementsArray) {
-	for (const [key, value] of Object.entries(elementsArray)) {
+	for (const [, value] of Object.entries(elementsArray)) {
 		var buttons = value.querySelectorAll("._button");
 		buttons.forEach(item => {
 			if (item.innerHTML.includes("Load more")){
