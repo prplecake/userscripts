@@ -3,8 +3,9 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://retroflix.club/*
 // @grant       none
-// @version     1.1
+// @version     1.2
 // @author      Matthew Jorgensen
+// @homepageURL https://github.com/prplecake/userscripts/blob/master/retroflix.club/fix-images.user.js
 // @downloadURL https://github.com/prplecake/userscripts/blob/master/retroflix.club/fix-images.user.js
 // @description 4/27/2021, 9:24:18 PM
 // ==/UserScript==

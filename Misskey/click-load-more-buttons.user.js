@@ -3,8 +3,9 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://mk.jrgnsn.social/
 // @grant       none
-// @version     1.1
+// @version     1.2
 // @author      Matthew Jorgensen
+// @homepageURL https://github.com/prplecake/userscripts/blob/master/Misskey/click-load-more-buttons.user.js
 // @downloadURL https://github.com/prplecake/userscripts/blob/master/Misskey/click-load-more-buttons.user.js
 // @description Clicks "Load More" buttons inside articles
 // ==/UserScript==

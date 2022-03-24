@@ -3,7 +3,8 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://*.sr.ht/*
 // @grant       none
-// @version     1.1
+// @version     1.2
+// @homepageURL	https://github.com/prplecake/userscripts/blob/master/sourcehut/unset-monospace-font-family.user.js
 // @downloadURL	https://github.com/prplecake/userscripts/blob/master/sourcehut/unset-monospace-font-family.user.js
 // @author      Matthew Jorgensen
 // @description 4/27/2021, 9:28:13 PM

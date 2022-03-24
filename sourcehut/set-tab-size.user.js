@@ -3,7 +3,8 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://*.sr.ht/*
 // @grant       none
-// @version     1.1
+// @version     1.2
+// @homepageURL	https://github.com/prplecake/userscripts/blob/master/sourcehut/set-tab-size.user.js
 // @downloadURL	https://github.com/prplecake/userscripts/blob/master/sourcehut/set-tab-size.user.js
 // @author      Matthew Jorgensen
 // ==/UserScript==
