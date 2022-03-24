@@ -5,6 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      Matthew Jorgensen
+// @homepageURL https://github.com/prplecake/userscripts/blob/master/help.nextcloud.com/fix-images.user.js
 // @downloadURL https://github.com/prplecake/userscripts/blob/master/help.nextcloud.com/fix-images.user.js
 // @description 2022-03-23 22:23
 // ==/UserScript==
