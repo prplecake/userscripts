@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://help.nextcloud.com/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      Matthew Jorgensen
 // @homepageURL https://github.com/prplecake/userscripts/blob/master/help.nextcloud.com/fix-images.user.js
 // @downloadURL https://github.com/prplecake/userscripts/blob/master/help.nextcloud.com/fix-images.user.js
